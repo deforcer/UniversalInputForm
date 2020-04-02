@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Подписка</string>
+    <string name="entername">введите имя</string>
+    <string name="username">Имя пользователя</string>
+    <string name="email">введите email</string>
+    <string name="emailstring">Электронная почта</string>
+    <string name="clearstring">Очистить</string>
+    <string name="emptyfields">Заполните все поля пожалуйста и повторите попытку</string>
+    <string name="success_message">Подписка на рассылку успешно оформлена для пользователя %1$s на электронный адрес %2$s</string>
+
 </resources>
